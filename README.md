@@ -39,3 +39,9 @@ Investir em FIIs permite que o investidor pessoa física tenha acesso a ativos i
 6. "Para um iniciante total, quais são os maiores riscos de colocar dinheiro em FIIs? É possível perder dinheiro? Explique de forma calma e clara."
 
 ---
+
+## 🚀 Acesso ao Projeto
+
+Para acessar o projeto e interagir com o mentor digital, basta entrar no link abaixo:
+
+👉 [**Acessar NotebookLM - FIIs para Iniciantes**](https://notebooklm.google.com/notebook/2bf0021a-d5e3-4270-ac2d-3e5c25d64e14?authuser=1)
